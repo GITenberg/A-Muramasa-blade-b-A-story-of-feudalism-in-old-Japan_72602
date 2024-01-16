@@ -8,12 +8,17 @@ contributor:
   - agent_name: Munehiro, Nakamura
     gutenberg_agent_id: '56744'
     url: http://www.gutenberg.org/2009/agents/56744
+covers:
+- cover_type: archival
+  image_path: 72602-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Wertheimber, Louis
     gutenberg_agent_id: '56743'
     url: http://www.gutenberg.org/2009/agents/56743
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72602#A-Muramasa-blade-b-A-story-of-feudalism-in-old-Japan
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
